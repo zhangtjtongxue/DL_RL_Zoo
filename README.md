@@ -1,7 +1,7 @@
 ## An lightweight, stable, efficient DRL PyTorch implement
 ## I want to call this PyTorch implement as "3-Python-file-RL".
 Deep Reinforcement Learning (DRL)
-
+《深度强化学习与先进智能决策》微信群一个叫：Z+H - 1943的人分享
 DDPG, TD3, PPO, SAC, InterAC, InterSAC and DQN (model-free DRL)
 
 
